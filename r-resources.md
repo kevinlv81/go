@@ -38,6 +38,11 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
  * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
  * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
 
+### People Analytics with R
+
+ * Handbook of Regression Modeling in People Analytics with R [Chapman & Hall/CRC / Ebook / Book / exercices & datasets](https://peopleanalytics-regression-book.org/index.html)
+ * Handbook of Graphs and Networks in People Analytics with R & Python [Chapman and Hall/CRC  / Book ```59£```](https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970) [Chapman and Hall/CRC / Ebook](https://ona-book.org/) 
+
 #### R Libraries
 
  * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
